@@ -12,9 +12,9 @@ function draw() {
 		Math.random() * 255);
 
 mouseColor = color(mouseX / 640 * 255,
-		mouseX / 640 * 255,
-		mouseX / 640 * 255,
-		mouseX / 640 * 255);
+		mouseY / 480 * 255,
+		0
+		);
 
 	//fill(fillColor);
 	//rect(100,100,100,100);
