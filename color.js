@@ -16,8 +16,8 @@ mouseColor = color(mouseX / 640 * 255,
 		mouseX / 640 * 255,
 		mouseX / 640 * 255);
 
-	fill(fillColor);
-	rect(100,100,100,100);
+	//fill(fillColor);
+	//rect(100,100,100,100);
 	fill(fillColor);
 	ellipse(300,300,100,100);
 
